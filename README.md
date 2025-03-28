@@ -1,6 +1,6 @@
 # 한시간으로 끝내는 LangChain 기본기
 
-인프런 강의 "한시간으로 끝내는 LangChain 기본기"를 위한 예제 코드 저장소입니다.
+"한시간으로 끝내는 LangChain 기본기"를 위한 예제 코드 저장소입니다.
 
 ## 강의 소개
 
@@ -53,11 +53,11 @@ pip install langchain-ollama langchain-openai langchain-anthropic python-dotenv
 .
 ├── README.md
 ├── .env  # API 키 등 환경 변수 (생성 필요)
-├── 2. LLM을 활용해서 답변을 생성하는 방법.ipynb
-├── 3. 랭체인 스타일로 프롬프트 작성하는 방법.ipynb
-├── 4. 답변의 형식을 컨트롤하는 방법.ipynb
-├── 5. LCEL을 활용한 랭_체인_ 생성하는 방법.ipynb
-└── 6. 지금까지 배운 내용 총정리 (feat. 프롬프트 꿀팁 살짝).ipynb
+├── 1. LLM을 활용해서 답변을 생성하는 방법.ipynb
+├── 2. 랭체인 스타일로 프롬프트 작성하는 방법.ipynb
+├── 3. 답변의 형식을 컨트롤하는 방법.ipynb
+├── 4. LCEL을 활용한 랭_체인_ 생성하는 방법.ipynb
+└── 5. 지금까지 배운 내용 총정리 (feat. 프롬프트 꿀팁 살짝).ipynb
 ```
 
 ## 환경 변수 설정
